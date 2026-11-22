@@ -1,0 +1,19 @@
+{
+ "version": "0.27.1",
+ "published": "2026-11-22T14:15:00Z",
+ "notes": "## What's new\n- Updates page: check for a newer TX, then download, check and unpack it in one click\n- Overview split into clear tabs: Scan results, Drives, Outside the scan, Auto-clean\n- Drive cards with ring gauges; one forecast note instead of one per drive\n- New scanning card with live counts; redesigned weekly auto-clean card\n\n## Fixes\n- Drive names keep their colon (C:)",
+ "assets": [
+  {
+   "name": "TX-Digital-Cleaner-Linux-0.27.1.tar.gz",
+   "size": 18527007,
+   "path": "files/0.27.1/TX-Digital-Cleaner-Linux-0.27.1.tar.gz",
+   "sha256": "d84cea18325f026dc85f2ebd0a994a12b50c704eea09efa5fbab9bf1c58bc989"
+  },
+  {
+   "name": "TX-Digital-Cleaner-Windows-0.27.1.zip",
+   "size": 15128943,
+   "path": "files/0.27.1/TX-Digital-Cleaner-Windows-0.27.1.zip",
+   "sha256": "eb498c32e998838f6e54724742806966a068b145e99655de1c2b1e39cd9f6cb9"
+  }
+ ]
+}
